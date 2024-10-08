@@ -1,0 +1,50 @@
+{
+  "sessions": [
+    {
+      "id": "504081934:504081934",
+      "data": {
+        "__scenes": {},
+        "userData": {
+          "telegram_id": 504081934,
+          "name": "Eduard",
+          "user_name": "Drm_it_bad",
+          "client_id": "jhgb",
+          "client_secret": "njk",
+          "products": [
+            {
+              "id": 4288609796,
+              "title": "Поддон для душа Bas Олимпик 100x80",
+              "index": 1
+            },
+            {
+              "id": 4257424270,
+              "title": "Гигиенический душ Damixa RedBlu Option 214000000 с",
+              "index": 2
+            },
+            {
+              "id": 4257127998,
+              "title": "Смеситель для раковины AM.PM Gem F90A03022 с гигие",
+              "index": 3
+            },
+            {
+              "id": 4257084166,
+              "title": "Гигиенический душ Damixa Option 212000300 со смеси",
+              "index": 4
+            },
+            {
+              "id": 4256921905,
+              "title": "Гигиенический душ Damixa RedBlu Option 212000000 с",
+              "index": 5
+            }
+          ],
+          "parser": {
+            "id": 4257127998,
+            "title": "Смеситель для раковины AM.PM Gem F90A03022 с гигие",
+            "index": 3
+          },
+          "newPrice": 40
+        }
+      }
+    }
+  ]
+}
